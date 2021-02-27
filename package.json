@@ -1,16 +1,16 @@
 {
-	"name": "cucumberquick",
+	"name": "cucumberquick-better",
 	"displayName": "Cucumber Quick",
-	"description": "Cucumber Quick - a quick cucumber executer",
+	"description": "The un-gayed fork of Cucumber Quick - a quick cucumber executer",
 	"version": "2.2.0",
-	"publisher": "AbhinabaGhosh",
+	"publisher": "zpxp",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
 	"categories": [
 		"Programming Languages"
 	],
-	"author": "Abhinaba Ghosh",
+	"author": "zpxp",
 	"icon": "media/icon.png",
 	"activationEvents": [
 		"onCommand:execute.scenario",
