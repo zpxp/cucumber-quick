@@ -37,6 +37,26 @@
 					"command": "execute.feature"
 				}
 			]
+		},
+		"configuration": {
+			"type": "object",
+			"title": "cucumberquick",
+			"properties": {
+				"cucumberquick.tool": {
+					"type": [
+						"string"
+					],
+					"default": "",
+					"description": "Name of the tool"
+				},
+				"cucumberquick.script": {
+					"type": [
+						"string"
+					],
+					"default": "",
+					"description": "Launch script"
+				}
+			}
 		}
 	},
 	"scripts": {
